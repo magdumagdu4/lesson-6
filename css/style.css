@@ -105,3 +105,30 @@ h2 {
 	margin-top: 5px;
 	margin-left: 30px;
 }
+.box1 {
+	margin:  0 auto;
+	background-color: orange;
+	width: 190px;
+	height: 70px;
+	border-radius: 5px;
+	
+}
+.text2 {
+	position: absolute;
+	margin-left: 50px;
+
+}
+.clear {
+	clear: both;
+}
+.box-wraper {
+	position: relative;
+}
+.box2 {
+	margin-top: 140px;
+	margin-bottom: 100px;
+	width: 1600px;
+	height: 266px;
+	background-color: #181C28;
+
+}
