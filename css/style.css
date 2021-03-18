@@ -5,6 +5,8 @@
 	float: left;
 	margin-left: 100px;
 	margin-top: 40px;
+	color: grey;
+	font-weight: bold;
 
 }
 .nav-li {
@@ -20,6 +22,10 @@
 	top: 0;
 	left: 0;
 	width: 100%;
+	background-color: white;
+}
+body {
+	width: 1600px;
 }
 .section-1 {
 	margin-top: 155px;
@@ -27,9 +33,61 @@
 .picture-wraper {
 	position: relative;
 }
-.paragraph {
+.paragrap-text {
 	position: absolute;
-	color: blue;
-	top: 100px;
-	left: 100px;
+	color: #fff;
+	font-size: 36px;
+	font-weight: bold;
+	top: 50%;
+	left: 50%;
+	margin-left: 20px;
+}
+/*section2*/
+.section-2 {
+	width: 100%;
+	margin: 0 auto;
+}
+h3 {
+	color: orange;
+	font-size: 22px;
+	margin-left: 170px;
+	margin-top: 80px;
+	margin-left: 80px;
+}
+h4 {
+	font-size: 36px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h2 {
+	margin-bottom: 20px;
+}
+.top-left {
+	float: left;
+	width: 636px;
+	height: 672px;
+	margin-left: 130px;
+}
+.top-right {
+	float: right;
+	width: 636px;
+	height: 672px;
+	margin-right: 130px;
+}
+.bottom-left {
+	float: left;
+	width: 636px;
+	height: 672px;
+	margin-left: 130px;
+}
+.bottom-right {
+	float: right;
+	width: 636px;
+	height: 672px;
+	margin-right: 130px;
+}
+.conteiner {
+	width: 100%px;
+	margin: 0 auto;
 }
