@@ -50,9 +50,9 @@ body {
 h3 {
 	color: orange;
 	font-size: 22px;
-	margin-left: 170px;
+	margin-left: 150px;
 	margin-top: 80px;
-	margin-left: 80px;
+	margin-bottom: 80px;
 }
 h4 {
 	font-size: 36px;
@@ -90,4 +90,18 @@ h2 {
 .conteiner {
 	width: 100%px;
 	margin: 0 auto;
+}
+.text-readmore {
+	color: orange;
+	font-size: 14px;
+	font-weight: bold;
+	float: left;
+}
+.line {
+	width: 47px;
+	height: 4px;
+	background-color: orange;
+	float: left;
+	margin-top: 5px;
+	margin-left: 30px;
 }
