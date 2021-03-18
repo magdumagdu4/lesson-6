@@ -1,0 +1,35 @@
+.logo {
+	float: left;
+}
+.navigation {
+	float: left;
+	margin-left: 100px;
+	margin-top: 40px;
+
+}
+.nav-li {
+	float: left;
+	margin-right: 50px;
+}
+.clear {
+	clear: both;
+}
+.header-wraper {
+	padding: 30px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.section-1 {
+	margin-top: 155px;
+}
+.picture-wraper {
+	position: relative;
+}
+.paragraph {
+	position: absolute;
+	color: blue;
+	top: 100px;
+	left: 100px;
+}
