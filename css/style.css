@@ -23,6 +23,7 @@
 	left: 0;
 	width: 100%;
 	background-color: white;
+	z-index: 25;
 }
 body {
 	width: 1600px;
@@ -32,6 +33,7 @@ body {
 }
 .picture-wraper {
 	position: relative;
+
 }
 .paragrap-text {
 	position: absolute;
@@ -131,4 +133,52 @@ h2 {
 	height: 266px;
 	background-color: #181C28;
 
+}
+.text3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+.text4 {
+	font-size: 16px;
+	color: #7B7B7B;
+	margin-bottom: 10px;
+}
+.textbox1 {
+	float: left;
+	margin-right: 30px;
+	width: 190px;
+	height: 210px;
+	margin-left: 130px;
+}
+.textbox2 {
+	float: left;
+	margin-right: 30px;
+	width: 190px;
+	height: 210px;
+	margin-left: 130px;
+}
+.textbox3 {
+	float: left;
+	margin-right: 30px;
+	width: 190px;
+	height: 210px;
+	margin-left: 130px;
+}
+.textbox4 {
+	float: left;
+	margin-right: 30px;
+	width: 190px;
+	height: 210px;
+	margin-left: 130px;
+}
+.box3 {
+	font-size: 16px;
+	color: #7B7B7B;
+	margin-left:   1200px;
+	margin-bottom: 150px;
+}
+
+.image-card {
+	float: left;
+	margin-right: 5px;
 }
