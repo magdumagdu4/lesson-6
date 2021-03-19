@@ -107,6 +107,10 @@ h2 {
 	margin-top: 5px;
 	margin-left: 30px;
 }
+/*section3*/
+.section-3 {
+	margin: 0 auto;
+}
 .box1 {
 	margin:  0 auto;
 	background-color: orange;
@@ -116,6 +120,7 @@ h2 {
 	
 }
 .text2 {
+	margin:  0 auto;
 	position: absolute;
 	margin-left: 50px;
 
@@ -125,6 +130,7 @@ h2 {
 }
 .box-wraper {
 	position: relative;
+	height: 100px;
 }
 .box2 {
 	margin-top: 140px;
@@ -143,6 +149,7 @@ h2 {
 	color: #7B7B7B;
 	margin-bottom: 10px;
 }
+
 .textbox1 {
 	float: left;
 	margin-right: 30px;
