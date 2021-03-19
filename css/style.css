@@ -130,7 +130,7 @@ h2 {
 }
 .box-wraper {
 	position: relative;
-	height: 100px;
+	height: 100px
 }
 .box2 {
 	margin-top: 140px;
@@ -149,7 +149,6 @@ h2 {
 	color: #7B7B7B;
 	margin-bottom: 10px;
 }
-
 .textbox1 {
 	float: left;
 	margin-right: 30px;
